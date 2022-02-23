@@ -1,0 +1,8 @@
+{
+  "realm": "LDAPFederationTest",
+  "auth-server-url": "http://localhost:8888/auth/",
+  "ssl-required": "external",
+  "resource": "dhge-pa3-app",
+  "public-client": true,
+  "confidential-port": 0
+}
